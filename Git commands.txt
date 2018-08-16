@@ -1,0 +1,7 @@
+git config --global user.name "titanhood"
+git config --email user.email "ajay.srivastav0070@gmail.com"
+git init
+git add .
+git commit -m "First assisgnment"
+git remote origin master " "
+git push origin master
